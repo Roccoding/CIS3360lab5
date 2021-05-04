@@ -1,0 +1,7 @@
+check=1
+first=300
+second=301
+first=false
+first2=300
+failure test=-1
+third=400
